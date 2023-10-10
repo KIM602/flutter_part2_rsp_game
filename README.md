@@ -1,6 +1,9 @@
 # part2_rsp_game
 
 A new Flutter project.
+Flutter로 가위바위보 앱 만들기
+![image](https://github.com/KIM602/flutter_part2_rsp_game/assets/112933103/43169959-ceee-46c9-8918-0b9de92d5140)
+![image](https://github.com/KIM602/flutter_part2_rsp_game/assets/112933103/09daadd8-e681-4068-8678-974f73dd7c58)
 
 ## Getting Started
 
